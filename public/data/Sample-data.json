@@ -1,0 +1,153 @@
+{
+    "companyInfo": {
+        "companyName": "Richards Group",
+        "companyMotto": "killer incentivize synergies",
+        "companyEst": "2021-09-10T21:52:11.643Z"
+    },
+    "employees": [
+        {
+            "id": "0d4423bc-929f-48e8-b70a-685e4b59c9ef",
+            "avatar": "https://randomuser.me/api/portraits/med/men/11.jpg",
+            "firstName": "Hugo",
+            "lastName": "Grady",
+            "jobTitle": "Legacy Markets Strategist",
+            "contactNo": "0443 060 320",
+            "address": "Smitham Trail Martinside, Tasmania",
+            "age": 57,
+            "bio": "Blanditiis nobis similique possimus magni architecto minus labore unde quasi. Recusandae assumenda ab dolorum est sint. Quam aut quas qui sit corporis. Modi ipsam nisi magni amet cupiditate id voluptatibus voluptatem.",
+            "dateJoined": "2022-04-07T15:29:27.680Z"
+        },
+        {
+            "id": "74fe036a-7439-4af1-bd17-5e6728c4bb69",
+            "avatar": "https://randomuser.me/api/portraits/med/men/14.jpg",
+            "firstName": "Chloe",
+            "lastName": "Baumbach",
+            "jobTitle": "Corporate Usability Representative",
+            "contactNo": "0481 446 859",
+            "address": "Jacobs Meadow Sophiechester, Tasmania",
+            "age": 35,
+            "bio": "Consequatur provident iste et voluptas. Et ut quia. Aspernatur non consectetur optio sunt.",
+            "dateJoined": "2023-10-04T17:52:55.609Z"
+        },
+        {
+            "id": "15ce0539-1132-4c2a-893a-8d4c7b8219c4",
+            "avatar": "https://randomuser.me/api/portraits/med/men/12.jpg",
+            "firstName": "Amelia",
+            "lastName": "Watson",
+            "jobTitle": "Senior Infrastructure Facilitator",
+            "contactNo": "0484 307 515",
+            "address": "Joseph Boulevard South Michael, Victoria",
+            "age": 44,
+            "bio": "Nisi ipsum laudantium error et quia dolorem illum. Quod omnis voluptas voluptatum autem mollitia dolorum. Cum repellendus sed nulla ea dolores.",
+            "dateJoined": "2023-09-13T13:37:31.229Z"
+        },
+        {
+          "id": "b927d551-0428-4e83-b193-b6cce5e41d71",
+          "avatar": "https://randomuser.me/api/portraits/med/men/19.jpg",
+          "firstName": "Mason",
+          "lastName": "Christiansen",
+          "jobTitle": "Chief Group Analyst",
+          "contactNo": "0448 598 980",
+          "address": "Evans Square Calebville, Queensland",
+          "age": 22,
+          "bio": "Iure accusantium quam voluptatibus consequatur. Temporibus ducimus nesciunt quis quisquam vel dolor. Esse magni et eum. Quasi atque perferendis amet impedit velit. Quas quos aut quisquam unde.",
+          "dateJoined": "2023-06-22T14:18:43.750Z"
+        },
+        {
+          "id": "400e14d6-ce6c-4dc6-9cf8-2b59a811251c",
+          "avatar": "https://randomuser.me/api/portraits/med/men/18.jpg",
+          "firstName": "Ashley",
+          "lastName": "Johnston",
+          "jobTitle": "Central Branding Supervisor",
+          "contactNo": "0430 821 434",
+          "address": "Anthony View Rd South Lukeburgh, Western Australia",
+          "age": 62,
+          "bio": "Tenetur qui atque rerum est quo neque ipsa. Aut nulla quisquam facere sed consequuntur perspiciatis libero. Cumque sit ut ipsum ut ipsa enim et consequatur quis.",
+          "dateJoined": "2020-11-16T13:23:31.588Z"
+        },
+        {
+          "id": "631a1990-f9ad-4bb8-8b06-1ad2d0ead73f",
+          "avatar": "https://randomuser.me/api/portraits/med/men/15.jpg",
+          "firstName": "Anna",
+          "lastName": "Collins",
+          "jobTitle": "Central Brand Consultant",
+          "contactNo": "0473 343 434",
+          "address": "Hermann Crescent Port Phoebe, Northern Territory",
+          "age": 37,
+          "bio": "Repellat enim suscipit eum aut architecto dolorem voluptatem. Id et fuga voluptatem voluptatem. Et sit consequatur consectetur veniam voluptas quo. Fuga sed vel ut dolorem amet. Provident optio aut exercitationem est voluptatem tenetur beatae voluptatem. Minima neque dignissimos iusto et est non rerum ipsum.",
+          "dateJoined": "2022-11-17T00:06:48.453Z"
+        },
+        {
+          "id": "c1be9ec2-3045-4911-bf44-b7de7b9ced59",
+          "avatar": "https://randomuser.me/api/portraits/med/men/22.jpg",
+          "firstName": "Leah",
+          "lastName": "Boyer",
+          "jobTitle": "Global Factors Representative",
+          "contactNo": "0435 628 057",
+          "address": "Riley Street Hyattfort, Tasmania",
+          "age": 19,
+          "bio": "Eius aliquam porro atque adipisci dolorem accusamus ea magni error. Corrupti veniam repellendus velit. Ea deserunt temporibus quis quisquam laborum animi quod laudantium. Officiis aut dolorem saepe quas dicta ad.",
+          "dateJoined": "2022-10-21T03:55:22.372Z"
+        },
+        {
+          "id": "58aee6c3-ff67-409c-b5be-878f2285cea0",
+          "avatar": "https://randomuser.me/api/portraits/med/men/17.jpg",
+          "firstName": "Phoebe",
+          "lastName": "West",
+          "jobTitle": "Chief Optimization Specialist",
+          "contactNo": "0468 769 790",
+          "address": "Corwin Drive East Hannahmouth, Western Australia",
+          "age": 54,
+          "bio": "Corporis accusantium architecto excepturi porro est qui id. Aspernatur dolorem dolorem quis. In laudantium dicta occaecati numquam.",
+          "dateJoined": "2020-09-04T00:04:20.826Z"
+        },
+        {
+          "id": "98481a63-ad85-4551-8a15-8ba3ea96f858",
+          "avatar": "https://randomuser.me/api/portraits/med/men/16.jpg",
+          "firstName": "Chase",
+          "lastName": "Harber",
+          "jobTitle": "Global Factors Architect",
+          "contactNo": "0438 379 939",
+          "address": "King Crest East Connor, New South Wales",
+          "age": 61,
+          "bio": "Laborum dignissimos at consequuntur nulla fugit nemo dolorum possimus. Vel adipisci aut ea amet. Sed iste ut. Saepe impedit esse corrupti nulla sint. Facere et exercitationem aperiam minus ut non. Et autem vel impedit sed et ut laboriosam.",
+          "dateJoined": "2023-04-28T15:15:43.019Z"
+        },
+        {
+          "id": "0a0594a9-625d-489a-93ad-b0b5bd902834",
+          "avatar": "https://randomuser.me/api/portraits/med/men/9.jpg",
+          "firstName": "Christian",
+          "lastName": "Hermiston",
+          "jobTitle": "International Accountability Director",
+          "contactNo": "0455 805 206",
+          "address": "Walker Estate Dr Samuelport, Australian Capital Territory",
+          "age": 17,
+          "bio": "Blanditiis quia commodi provident dignissimos similique ea quod reiciendis. Quam est sed est cumque aut. Voluptatum iure eius asperiores. Molestias quibusdam soluta ducimus delectus consectetur maxime minima harum et. Ut ratione molestiae consequatur dolorum deleniti enim consequuntur modi vero. Adipisci modi deserunt aliquid inventore nisi ut quaerat voluptatem.",
+          "dateJoined": "2015-11-15T17:08:57.084Z"
+        },
+        {
+          "id": "fd05cd18-8474-4844-9278-d396c8d40f51",
+          "avatar": "https://randomuser.me/api/portraits/med/men/66.jpg",
+          "firstName": "Stella",
+          "lastName": "Wilkinson",
+          "jobTitle": "Senior Security Representative",
+          "contactNo": "0421 355 769",
+          "address": "Nguyen Court North Lilyfurt, Northern Territory",
+          "age": 18,
+          "bio": "Qui consequatur quae eum. Tempora possimus doloribus libero sed rerum repellendus. Aliquid facilis vero aut et corporis ex. Id enim blanditiis quis aliquam iusto. Est expedita quidem nesciunt. Ut dolore consequatur enim dolorem deleniti tempore nostrum expedita fuga.",
+          "dateJoined": "2022-03-31T11:29:55.615Z"
+        },
+        {
+          "id": "befc2331-6fec-4440-9312-264e4fb2be3f",
+          "avatar": "https://randomuser.me/api/portraits/med/men/12.jpg",
+          "firstName": "Mason",
+          "lastName": "Haley",
+          "jobTitle": "Lead Markets Designer",
+          "contactNo": "0461 790 459",
+          "address": "Graham Circle Jadehaven, Queensland",
+          "age": 20,
+          "bio": "Iusto quam nihil odio at doloribus. Dolore odio sed dolorum quia doloremque porro sequi non animi. Tempora eligendi voluptates.",
+          "dateJoined": "2022-03-24T15:30:06.349Z"
+        }
+    ]
+}
