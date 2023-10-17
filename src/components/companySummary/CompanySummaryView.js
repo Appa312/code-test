@@ -1,8 +1,8 @@
-import React, { useState, useEffect } from 'react'
-import './CompanySummaryView.css';
+import React, { useState, useEffect } from "react";
+import { useDispatch, useSelector } from "react-redux";
+import "./CompanySummaryView.css";
 import EmployeeDetails from "./EmployeeDetails";
 import { fetchData } from "../../redux/actions";
-import { connect } from "react-redux";
 import {
   Button,
   TextField,
@@ -12,24 +12,26 @@ import {
   TableContainer,
   TableHead,
   TableRow,
-  Paper
+  Paper,
 } from "@mui/material";
 
-
-const CompanySummaryView = ({ fetchCompanyData, companyDetails }) => {
+const CompanySummaryView = () => {
   const [employeeData, setEmployeeData] = useState({});
   const [currentPage, setCurrentPage] = useState(1);
   const [itemsPerPage] = useState(4);
   const [searchTerm, setSearchTerm] = useState("");
   const [filteredData, setFilteredData] = useState([]);
   const [selectedEmployee, setSelectedEmployee] = useState(null);
+  const companyDetails = useSelector((state) => state.company.companyDetails);
+  const dispatch = useDispatch();
 
   useEffect(() => {
-    fetchCompanyData();
+    dispatch(fetchData());
   }, []);
 
   useEffect(() => {
     if (companyDetails) {
+      debugger;
       setEmployeeData(companyDetails);
       setFilteredData(companyDetails.employees);
     }
@@ -216,13 +218,5 @@ const CompanySummaryView = ({ fetchCompanyData, companyDetails }) => {
     </div>
   );
 };
- // redux
-  function mapStateToProps(state) {debugger;
-  return {
-    companyDetails: state.company.companyDetails
-  };
-};
- 
-export default connect(mapStateToProps, {
-  fetchCompanyData: fetchData,
-})(CompanySummaryView);
+
+export default CompanySummaryView;

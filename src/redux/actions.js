@@ -14,28 +14,22 @@ export function fetchDataSuccess({ companyDetails }) {
     },
   };
 }
-
-export function fetchDataFailuer() {
+export function fetchDataFailure() {
   return {
     type: actions.FETCH_DATA_FAILURE,
   };
 }
-
 export function fetchData() {
   return async (dispatch) => {
     dispatch(fetchDataPending());
 
     try {
-      const companyDetails = await fetch("data/sample-data.json")
-      .then((res) =>
+      const companyDetails = await fetch("data/Sample-data.json").then((res) =>
         res.json()
       );
       dispatch(fetchDataSuccess({ companyDetails }));
     } catch {
-      dispatch(fetchDataFailuer());
+      dispatch(fetchDataFailure());
     }
   };
 }
-
-
-

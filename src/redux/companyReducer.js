@@ -16,7 +16,7 @@ export default function companyReducer(state = initialState, action) {
       };
     }
 
-    case actions.FETCH_DATA_SUCCESS: {debugger;
+    case actions.FETCH_DATA_SUCCESS: {
       const { companyDetails } = payload;
 
       return {
